@@ -4,43 +4,10 @@
 
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Die Minecraft Welt
-
-
-## Header 2
-
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-
-### There's a horizontal rule below this.
 
 * * *
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+ <iframe src="http://minecraft.konziiis.de:8123/" height="600" width="100%" title="Map" frameborder="0" und scrolling="no"></iframe> 
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+* * *
